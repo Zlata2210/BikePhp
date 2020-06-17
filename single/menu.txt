@@ -1,0 +1,4 @@
+<div id="rectangle">
+<ul>
+       [%menuitem%]
+    </ul>

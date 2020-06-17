@@ -1,0 +1,7 @@
+<div id="footer">
+
+<p><a href="mailto:po.zlataa@mail.ru">po.zlataa@mail.ru</a>
+
+</p>
+<p id="copy">© Copyright 2019</p>
+</div>

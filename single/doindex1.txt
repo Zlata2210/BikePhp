@@ -1,0 +1,18 @@
+<style> 
+.whiterectangle{
+  width: 794px;
+  height: 500px;
+  background-color: #ffffff;
+  margin-left: 22%;
+  margin-top: -1%;
+  color:black;
+}
+</style>
+<img src="назначение.jpg">
+    <h3>Назначение мотоциклов</h3>
+	<div class="button">
+      <img src="button.png" id="button">
+      <a href="#1">Подробнее </a>
+	</div>
+  </div>
+    <div class="whiterectangle">

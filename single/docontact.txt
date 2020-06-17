@@ -1,0 +1,12 @@
+<style> 
+.whiterectangle{
+  width: 794px;
+  height: 500px;
+  background-color: #ffffff;
+  margin-left: 22%;
+  margin-top: -1%;
+}
+</style>
+<img src="map.png" alt="" height=367px>
+</div>
+  <div class="whiterectangle" id="1">

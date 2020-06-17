@@ -1,0 +1,8 @@
+<img src="road.jpg">
+    <h1>Дорожные мотоциклы</h1>
+    <div id="button">
+      <img src="button.png">
+      <a href="#1">В каталог </a>
+    </div>
+
+  <div class="whiterectangle" id="1">

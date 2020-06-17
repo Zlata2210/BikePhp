@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+  <title>[%title%]</title>
+<link href="bike61.css" rel="stylesheet">
+<?php
+$url = $_SERVER['HTTP_HOST']
+if (parse_url($url, PHP_URL_PATH) == "/road"  )
+?>
+<link href="road.css" rel="stylesheet">
+<?php
+else if (parse_url($url, PHP_URL_PATH) == "/sport"  )?> <link href="sport.css" rel="stylesheet">
+<?php
+else if (parse_url($url, PHP_URL_PATH) == "/road"  )?> <link href="cross.css" rel="stylesheet">
+
+ </head>
+ <body>
+[%body%]
+  </body>
+</html>
